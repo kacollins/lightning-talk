@@ -1,13 +1,14 @@
 # Giving a Lightning Talk
 Kimberly Collins
 
-When I decided to give this talk, I had a hard time coming up with a topic
+I had a hard time coming up with a topic for this talk!
 * I’ve given [several lightning talks](https://www.youtube.com/@Techlahoma/search?query=Kimberly%20Collins)
 * I’ve helped lots of people find talk topics and give their first talks
 
 Filling 5 minutes is easier than you think
 
-Keeping it to 5 minutes is not as easy as you think
+# Keeping it to 5 minutes is not as easy as you think
+I had to cut a lot of content
 
 Focus on the beginning and ending of your talk - your first and last slides
 
@@ -43,8 +44,6 @@ Last slides - call to action
 
 Finding a topic is the hardest part for everyone
 
-The hardest part is over before you give the talk
-
 Engage with the community
 * Participate in Slack discussions - ask and answer questions
 * Attend local user group meetups - chat with other attendees
@@ -53,7 +52,7 @@ Focus more on Why than How
 * You don't have to get into technical details
 * Attendees can learn more about the topic on their own if they're interested
 
-![Why You Should Give a Lightning Talk](/why-you-should-give-a-lightning-talk.png)
+![Why](why-you-should-give-a-lightning-talk.png)
 
 Share something new or new to you
 * Assume the audience knows a little less than they probably do
@@ -64,6 +63,7 @@ Share something new or new to you
 
 Tell a story - your story
 * How you got into tech, your role, or your tech stack
+* Anybody can do this
 * Nobody can “well actually” you
 
 Talk to the leaders of your favorite user groups
@@ -93,7 +93,7 @@ Still think there’s nothing you can speak on?
 * Ask in Slack! #thunderplains @KimberlyCollins
 
 # Shoutouts
-* Aaron - OKC WebDevs, simpleslides.dev
+* Aaron - OKC WebDevs, [simpleslides.dev](https://simpleslides.dev/)
 * Erich - Tulsa WebDevs, #newbie-mentor-matching
 * Kerry/Grant/Adrian - OKC Design + Tech
 * Lance - Pythonistas
