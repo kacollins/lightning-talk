@@ -14,7 +14,8 @@ I had to cut a lot of content
 Start with your first and last slides
 
 # Title slide
-Your topic and your name
+* Your topic
+* Your name
 
 # Intro/Vanity Slide
 * Give context on who you are and why we’re listening to you
@@ -71,7 +72,7 @@ Finding a topic is the hardest part for everyone
 * Nobody can “well actually” you
 
 # Talk to the leaders of your favorite user groups
-* They probably need speakers - ask them to talk through some topic ideas with you
+* They probably need speakers. Ask them to talk through some topic ideas with you
 * Tell them you're interested in being on a panel or just reading the announcements
 * Volunteer to help out with meetups to get a feel for how they work
 
