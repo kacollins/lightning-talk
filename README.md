@@ -3,7 +3,7 @@ Kimberly Collins
 
 I had a hard time coming up with a topic for this talk!
 * I’ve given [several lightning talks](https://www.youtube.com/@Techlahoma/search?query=Kimberly%20Collins)
-* I’ve helped lots of people find talk topics and give their first talks
+* I’ve helped lots of people find topics and give their first talks
 
 Filling 5 minutes is easier than you think
 
@@ -51,7 +51,7 @@ Finding a topic is the hardest part for everyone
 * You don't have to get into technical details
 * Attendees can learn more about the topic on their own if they're interested
 
-![Why](https://raw.githubusercontent.com/kacollins/lightning-talk/main/why-you-should-give-a-lightning-talk.png)
+[![Why](https://raw.githubusercontent.com/kacollins/lightning-talk/main/why-you-should-give-a-lightning-talk.png)](https://www.youtube.com/watch?v=gDxa4DRW2-I)
 
 # Share something new or new to you
 * Assume the audience knows a little less than they probably do
