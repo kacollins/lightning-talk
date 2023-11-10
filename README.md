@@ -1,4 +1,4 @@
-# Giving a Lightning Talk
+# [Giving a Lightning Talk](https://simpleslides.dev/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2thY29sbGlucy9saWdodG5pbmctdGFsay9tYWluL1JFQURNRS5tZA==)
 Kimberly Collins
 
 I had a hard time coming up with a topic for this talk!
@@ -24,9 +24,10 @@ Title slide - your topic and your name
 * 17 years of development experience
 * Part-time availability for freelance work
 
-# Last slides - call to action
+# Last slides
+# Call to action
 * What do you want people to do after your talk?
-* Fill in the content of your talk with what they need to get to that point
+* What do they need to get to that point?
 
 # Connect with me
 * [github.com/kacollins](https://github.com/kacollins)
@@ -70,7 +71,7 @@ Finding a topic is the hardest part for everyone
 * Tell them you're interested in being on a panel or just reading the announcements
 * Volunteer to help out with meetups to get a feel for how they work
 
-# Still think there’s nothing you can speak on?
+# Still think there’s nothing you can speak about?
 * Let’s chat about it
 * Find my [Calendly link](https://calendly.com/kacollins/chat)
 
@@ -97,5 +98,5 @@ Finding a topic is the hardest part for everyone
 * Kerry/Grant/Adrian - OKC Design + Tech
 * Lance - Pythonistas
 * Shanda/Hannah/Layla - SheCodesOKC
-* Everyone giving talks today
+* Everyone giving lightning talks today
 * Everyone signing up to give talks (You!)
