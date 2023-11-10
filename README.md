@@ -10,9 +10,11 @@ Filling 5 minutes is easier than you think
 # Keeping it to 5 minutes is not as easy as you think
 I had to cut a lot of content
 
-Focus on the beginning and ending of your talk - your first and last slides
+# Focus on the beginning and ending of your talk
+Start with your first and last slides
 
-Title slide - your topic and your name
+# Title slide
+Your topic and your name
 
 # Intro/Vanity Slide
 * Give context on who you are and why we’re listening to you
@@ -45,8 +47,10 @@ Title slide - your topic and your name
 Finding a topic is the hardest part for everyone
 
 # Engage with the community
-* Participate in Slack discussions - ask and answer questions
-* Attend local user group meetups - chat with other attendees
+* Participate in Slack discussions
+  * Ask and answer questions
+* Attend local user group meetups
+  * Chat with other attendees
 
 # Focus more on Why than How
 * You don't have to get into technical details
@@ -61,8 +65,8 @@ Finding a topic is the hardest part for everyone
 * Other people will be giving lightning talks
 * It’s fine if yours only applies to some of the audience
 
-# Tell a story - your story
-* How you got into tech, your role, or your tech stack
+# Tell a story
+* Your story - how you got into tech, your role, or your tech stack
 * Anybody can do this
 * Nobody can “well actually” you
 
